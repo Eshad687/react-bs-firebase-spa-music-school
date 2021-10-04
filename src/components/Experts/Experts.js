@@ -16,7 +16,7 @@ const Experts = () => {
         <div>
             {/* experts comments section */}
             <Container className="py-5">
-                <h1>Experts Comments</h1>
+                <h1>Experts Opinions</h1>
                 <Row xs={1} md={2} className="g-4">
                     {
 

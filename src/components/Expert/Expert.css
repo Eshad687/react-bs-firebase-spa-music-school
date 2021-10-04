@@ -1,0 +1,12 @@
+.quote::before{
+    content: open-quote;
+}
+.quote::after{
+content: close-quote;
+
+
+}
+.card-image{
+   height: 200px;
+   width: 200px;
+}

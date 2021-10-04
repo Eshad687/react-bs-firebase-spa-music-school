@@ -1,0 +1,6 @@
+.navlink{
+    color: gray;
+}
+.navlink:hover{
+    color: red;
+}

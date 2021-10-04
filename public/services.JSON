@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Basic Guitar Lesson",
+        "price": 39.99,
+        "image": "https://niceguitarlessons.com/wp-content/uploads/2014/07/acoustic-guitar-lessons-300x200.jpg",
+        "desc": "We teach acoustic guitar to the beginners."
+    },
+    {
+        "title": "Drums Mastery",
+        "price": 70.5,
+        "image": "https://ofmvc40dolyrl7u9xigg5kyy-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/still-2609133_1280-1024x682.jpg",
+        "desc": "from beginners to professional level drums lesson"
+    },
+    {
+        "title": "Instrumental Support",
+        "price": 29.99,
+        "image": "https://www.popsci.com/uploads/2019/03/18/JU5TDMCDQWSEJL3UXCENYO26HY.jpg",
+        "desc": "We provide instruments "
+    },
+    {
+        "title": "Weekly Music Workshop",
+        "price": 19.2,
+        "image": "https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/class/special-programs/acms/2018-2019/pcmw19-3.jpg",
+        "desc": "There isa chance to gain more skills"
+    },
+    {
+        "title": "Violin Mastery",
+        "price": 39.99,
+        "image": "https://videohive.img.customer.envatousercontent.com/files/0883024c-4a08-4a21-a469-96280970af19/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=9b0b0875c9c97ef2e06f64887d3676ec",
+        "desc": "Get good in violin"
+    },
+    {
+        "title": "Piano For Beginners",
+        "price": 45.55,
+        "image": "https://media.istockphoto.com/photos/favorite-classical-musicclose-up-view-of-gentle-female-hands-playing-picture-id1129332575?k=20&m=1129332575&s=612x612&w=0&h=DTpOnAdbtHwbC60LMOpSOlMOogOPg8wyyIRvJzwJtc8=",
+        "desc": "Get lesson if you are a beginner"
+    },
+    {
+        "title": "Bass Guitar Lesson ",
+        "price": 60.65,
+        "image": "https://scottsbasslessons.imgix.net/header-backgrounds/_headerBackground/chord-tone-concepts-phil-mann-volume-2.jpg?w=530&h=298&fit=crop&crop=faces,entropy&format=auto,compress",
+        "desc": "Learn professional level Bass guitar "
+    },
+    {
+        "title": "Pesonal Trainer",
+        "price": 99.99,
+        "image": "https://musicindustryhowtoimages.s3.amazonaws.com/wp-content/uploads/2018/04/23200023/private-music-teacher.jpg",
+        "desc": "You can get pesonal lesson from our expert trainer"
+    },
+    {
+        "title": "Saxophone Lesson",
+        "price": 15.45,
+        "image": "https://image.shutterstock.com/image-photo/boy-student-plays-saxophone-while-260nw-1587863344.jpg",
+        "desc": "Get good at saxophone"
+    }
+]

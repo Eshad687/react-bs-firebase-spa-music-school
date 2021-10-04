@@ -3,11 +3,13 @@ import { Card, Col } from 'react-bootstrap';
 import './Expert.css'
 
 const Expert = (props) => {
+    // destructuring the recieved data
     const { Name, image, Band, Comment } = props.expert;
     return (
         <div>
+            {/* expert card */}
             <Col>
-                <Card className="shadow">
+                <Card className="shadow card">
                     <div className="d-flex ">
 
                         <div>

@@ -15,7 +15,10 @@ function App() {
   return (
     <div >
       <BrowserRouter>
+        {/* fixed header */}
         <Header></Header>
+
+        {/* all The other routes */}
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -37,6 +40,8 @@ function App() {
           </Route>
 
         </Switch>
+
+        {/* fixed footer */}
         <Footer></Footer>
       </BrowserRouter>
 

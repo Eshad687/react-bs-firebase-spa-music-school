@@ -3,9 +3,10 @@ import { Container, Row } from 'react-bootstrap';
 import Expert from '../Expert/Expert';
 
 const Experts = () => {
+    // experts comments sections state
     const [experts, setExperts] = useState([]);
 
-
+    //loading experts data
     useEffect(() => {
         fetch('./expert.JSON')
             .then(res => res.json())
@@ -13,6 +14,7 @@ const Experts = () => {
     }, [])
     return (
         <div>
+            {/* experts comments section */}
             <Container className="py-5">
                 <h1>Experts Comments</h1>
                 <Row xs={1} md={2} className="g-4">

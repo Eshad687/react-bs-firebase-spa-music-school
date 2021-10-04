@@ -8,50 +8,50 @@ import './Banner.css'
 
 const Banner = () => {
     return (
-        <div>
-            <Carousel fade className="p-2 ">
 
-                <Carousel.Item className="xx">
+        <Carousel fade className="p-2 ">
 
-                    <img
+            <Carousel.Item className="banner-image">
 
-                        className="d-block w-100 rounded"
-                        src={image1}
-                        alt="First slide"
-                    />
+                <img
 
-                    <Carousel.Caption>
-                        <h3>Learn Your Favourite Instruments </h3>
-                        <p>Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife</p>
-                    </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item className="xx">
-                    <img
-                        className="d-block w-100 rounded"
-                        src={image2}
-                        alt="Second slide"
-                    />
+                    className="d-block w-100 rounded"
+                    src={image1}
+                    alt="First slide"
+                />
 
-                    <Carousel.Caption>
-                        <h3>Get A Carrer In Music</h3>
-                        <p>Music is the only language in which you cannot say a mean or sarcastic thing.</p>
-                    </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item className="xx">
-                    <img
-                        className="d-block w-100 rounded"
-                        src={image3}
-                        alt="Third slide"
-                    />
+                <Carousel.Caption>
+                    <h3>Learn Your Favourite Instruments </h3>
+                    <p>Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife</p>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item className="banner-image">
+                <img
+                    className="d-block w-100 rounded"
+                    src={image2}
+                    alt="Second slide"
+                />
 
-                    <Carousel.Caption>
-                        <h3>Learn From The Experts</h3>
-                        <p>Music is the moonlight in the gloomy night of life</p>
-                    </Carousel.Caption>
-                </Carousel.Item>
-            </Carousel>
+                <Carousel.Caption>
+                    <h3>Get A Carrer In Music</h3>
+                    <p>Music is the only language in which you cannot say a mean or sarcastic thing.</p>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item className="banner-image">
+                <img
+                    className="d-block w-100 rounded"
+                    src={image3}
+                    alt="Third slide"
+                />
 
-        </div>
+                <Carousel.Caption>
+                    <h3>Learn From The Experts</h3>
+                    <p>Music is the moonlight in the gloomy night of life</p>
+                </Carousel.Caption>
+            </Carousel.Item>
+        </Carousel>
+
+
     );
 };
 

@@ -7,7 +7,7 @@ const Footer = () => {
             <Container className="text-muted py-5">
                 <Row >
                     <Col md={4}>
-                        <h5>School of rock</h5>
+                        <h5>School of Rock</h5>
                         <p><small>Address: 23/A gulshan avenue, Dhaka,Bangladesh</small></p>
                         <p><small>Email: Schoolofrock@rock.com</small></p>
                         <small>Phone: +880895432</small>

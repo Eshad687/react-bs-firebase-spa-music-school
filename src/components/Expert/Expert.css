@@ -1,12 +1,24 @@
 .quote::before{
     content: open-quote;
+    
 }
 .quote::after{
 content: close-quote;
+
 
 
 }
 .card-image{
    height: 200px;
    width: 200px;
+}
+.card{
+   
+    transition: transform 0.5s, border 0.5s;
+}
+
+
+.card:hover{
+    transform: scale(102%);
+    border: 1px solid royalblue;
 }
